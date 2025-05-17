@@ -6,5 +6,8 @@ five versions of this algorithm are introduced:
 (3) fast global k-means algorithm
 (4) modified fast gkm algorithm
 (5) modified k-means algorithm.
-The results obtained from the optimized algorithms are presented at the end of the description pdf.
+The results and evaluations obtained from the optimized algorithms using real world datasets, are presented at the end of the description pdf.
 
+# features
+Dataset: breast, concrete, TSPLIB1060, TSPLIB3038
+libraries: sklearn, numpy, matplotlib
